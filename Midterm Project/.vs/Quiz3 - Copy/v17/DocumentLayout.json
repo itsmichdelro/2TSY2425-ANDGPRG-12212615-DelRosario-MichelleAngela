@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\gamemanager - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|c:\\users\\panget\\onedrive\\documents\\delrosario_michelleangela_spaceshooter\\quiz3 - copy\\assets\\scripts\\cancelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cancelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\playerawarenesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\playerawarenesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\soundsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\AudioManagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B51C54-4CD2-0A47-B8A1-7F18E038EA54}|Assembly-CSharp.csproj|solutionrelative:Assets\\AudioManagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelComplete.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\LevelComplete.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelComplete.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\LevelComplete.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelComplete.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:17:26.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:55:27.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAcwJMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:46:44.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:40:00.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\GameManager - Copy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager - Copy.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\GameManager - Copy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager - Copy.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:15:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:51:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CancelButton.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\CancelButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CancelButton.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\CancelButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CancelButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:46:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv3IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:20:57.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:31:17.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wB8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:16:28.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\EnemyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:50:38.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:03:20.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerAwarenessController.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\PlayerAwarenessController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerAwarenessController.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\PlayerAwarenessController.cs",
+              "RelativeToolTip": "Assets\\PlayerAwarenessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:53:30.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoundsButton.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\SoundsButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundsButton.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\SoundsButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundsButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:48:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIController.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:28:57.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AudioManagers.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\AudioManagers.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioManagers.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\AudioManagers.cs",
+              "RelativeToolTip": "Assets\\AudioManagers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:11:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VolumeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\VolumeSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\VolumeSettings.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\VolumeSettings.cs",
+              "RelativeToolTip": "Assets\\VolumeSettings.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:10:09.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\panget\\OneDrive\\Documents\\DelRosario_MichelleAngela_SpaceShooter\\Quiz3 - Copy\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:09:39.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

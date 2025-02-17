@@ -466,7 +466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8c5dda3eadc600478b9eecbb05fea20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundPanel: {fileID: 1637972248}
+  soundPanel: {fileID: 0}
   pausePanel: {fileID: 0}
   mainMenuPanel: {fileID: 0}
 --- !u!4 &180236309
@@ -559,17 +559,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 195191563}
   m_CullTransparentMesh: 1
---- !u!114 &197372465 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 9215958227254909384, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
-  m_PrefabInstance: {fileID: 4193110329684286926}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &202662070
 GameObject:
   m_ObjectHideFlags: 0
@@ -768,21 +757,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e235d7ad0c1093e41bd376af4706b7d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  slider: {fileID: 207463740}
+  slider: {fileID: 0}
   gradient:
     serializedVersion: 2
-    key0: {r: 1, g: 0, b: 0, a: 1}
-    key1: {r: 1, g: 0.9384991, b: 0, a: 1}
-    key2: {r: 0.0356133, g: 1, b: 0, a: 0}
-    key3: {r: 0.0356133, g: 1, b: 0, a: 0}
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 19661
-    ctime1: 39321
-    ctime2: 61757
-    ctime3: 65535
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
     ctime4: 0
     ctime5: 0
     ctime6: 0
@@ -795,11 +784,11 @@ MonoBehaviour:
     atime5: 0
     atime6: 0
     atime7: 0
-    m_Mode: 1
+    m_Mode: 0
     m_ColorSpace: -1
-    m_NumColorKeys: 4
+    m_NumColorKeys: 2
     m_NumAlphaKeys: 2
-  fill: {fileID: 1505109447}
+  fill: {fileID: 0}
 --- !u!114 &207463740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1388,8 +1377,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f9ede292abc294dbab8f38efaf89c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameOverScreen: {fileID: 1829163003}
-  levelCompleteScreen: {fileID: 1429301343}
+  gameOverScreen: {fileID: 0}
+  levelCompleteScreen: {fileID: 0}
 --- !u!4 &481232321
 Transform:
   m_ObjectHideFlags: 0
@@ -2366,9 +2355,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03379df14025697459439bfa3bfa2e90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myMixer: {fileID: 24100000, guid: cb07ae0eb2736b948bdfd26d240281f0, type: 2}
-  musicSlider: {fileID: 4193110329684286928}
-  SFXSlider: {fileID: 197372465}
+  myMixer: {fileID: 0}
+  musicSlider: {fileID: 0}
+  SFXSlider: {fileID: 0}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -2490,12 +2479,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33408d8c8a65ea947b21b898252d6df7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicSource: {fileID: 1476174063}
-  SFXSource: {fileID: 1418712444}
-  Background: {fileID: 8300000, guid: 7f69cdcd7523246aeb001327c97be0f1, type: 3}
-  BulletSounds: {fileID: 8300000, guid: 5f3b12efe1cd3402cb905001e349e8aa, type: 3}
-  PlayerDeath: {fileID: 8300000, guid: eeac7ff7e4ad44587b11429a7e7b8fc1, type: 3}
-  EnemyHit: {fileID: 8300000, guid: 5a734bcdccebe4d0aa169e4bc43d5210, type: 3}
+  musicSource: {fileID: 0}
+  SFXSource: {fileID: 0}
+  Background: {fileID: 0}
+  BulletSounds: {fileID: 0}
+  PlayerDeath: {fileID: 0}
+  EnemyHit: {fileID: 0}
 --- !u!4 &1029998018
 Transform:
   m_ObjectHideFlags: 0
@@ -3305,7 +3294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97e7b1f5bec7f494284a22a3e5ffd351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointsText: {fileID: 1365003127}
+  pointsText: {fileID: 0}
 --- !u!82 &1429301344
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4142,9 +4131,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1637972254}
+      - m_Target: {fileID: 2039762298799893735, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
         m_TargetAssemblyTypeName: SoundPanel, Assembly-CSharp
-        m_MethodName: MainMenuButton
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4214,20 +4203,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8c5dda3eadc600478b9eecbb05fea20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundPanel: {fileID: 1637972248}
-  pausePanel: {fileID: 148851961}
-  mainMenuPanel: {fileID: 1633291560}
---- !u!114 &1637972254 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4295973273781715089, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
-  m_PrefabInstance: {fileID: 4193110329684286926}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1637972248}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b85f58f333abb7b4f90751b61365955f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  soundPanel: {fileID: 0}
+  pausePanel: {fileID: 0}
+  mainMenuPanel: {fileID: 0}
 --- !u!1 &1709273203
 GameObject:
   m_ObjectHideFlags: 0
@@ -4415,7 +4393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3efb5739e7214b54b9622137fae345b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointsTextTMP: {fileID: 481589314}
+  pointsTextTMP: {fileID: 0}
 --- !u!82 &1829163004
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4684,10 +4662,10 @@ PrefabInstance:
     - target: {fileID: 5565792623322373313, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 788323141}
+      objectReference: {fileID: 180236307}
     - target: {fileID: 5565792623322373313, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: SetMusicVolume
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 5565792623322373313, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -4871,17 +4849,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1637972253}
   m_SourcePrefab: {fileID: 100100000, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
---- !u!114 &4193110329684286928 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5565792623322373313, guid: f2bb6fff71f228045b61bec095cc0e83, type: 3}
-  m_PrefabInstance: {fileID: 4193110329684286926}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &6386682876232124083
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -48,7 +48,7 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log($"Player taking damage: {damage}. Current health: {currentHealth}");
         currentHealth -= damage;
-        audioManager.PlaySFX(audioManager.PlayerDeath);
+      //  audioManager.PlaySFX(audioManager.PlayerDeath);
 
         if (healthBar != null)
         {
