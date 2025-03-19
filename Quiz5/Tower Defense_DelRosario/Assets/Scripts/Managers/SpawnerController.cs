@@ -1,0 +1,86 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SpawnerController : MonoBehaviour // track and handles spawns, despawns
+{
+    public static SpawnerController Instance;
+    public static int enemiesAlive = 0;
+    [SerializeField] GameObject[] enemyPrefab; // for multiple prefabs
+    [SerializeField] Transform spawnPoint;
+    public List<GameObject> enemyList = new List<GameObject>();
+
+    private void Awake()
+    {
+        Instance = this;
+    }
+    public void SpawnEnemy(int index) // index of enemyPrefab to know which one to spawn
+    { 
+        GameObject enemyObj = (GameObject)Instantiate(enemyPrefab[index]);
+        enemyObj.transform.position = spawnPoint.position;
+        enemyObj.GetComponent<Enemy>().SetTarget(GameManager.Instance.CrystalCore.transform);
+        enemyList.Add(enemyObj); 
+        enemiesAlive++;
+    }
+
+    public IEnumerator SpawnNormalEnemy(int index, int amount)
+    {
+        for (int i = 0; i < amount; i++)
+        {
+            SpawnEnemy(index);
+            yield return new WaitForSeconds(1f);
+        }
+    }
+
+    public void SpawnBossEnemy()
+    {
+        SpawnEnemy(3); 
+    }
+
+    public void SpawnEasyWave(int variant)
+    {
+        if (variant == 1)
+        {
+            StartCoroutine(SpawnNormalEnemy(0, 5));
+            StartCoroutine(SpawnNormalEnemy(1, 15));
+            StartCoroutine(SpawnNormalEnemy(2, 5));
+        }
+        if (variant == 2)
+        {
+            StartCoroutine(SpawnNormalEnemy(0, 5));
+            StartCoroutine(SpawnNormalEnemy(1, 10));
+            StartCoroutine(SpawnNormalEnemy(2, 20));
+        }
+    }
+
+    public void SpawnMediumWave(int variant)
+    {
+        if (variant == 1)
+        {
+            StartCoroutine(SpawnNormalEnemy(0, 25));
+            StartCoroutine(SpawnNormalEnemy(1, 20));
+        }
+        if (variant == 2)
+        {
+            StartCoroutine(SpawnNormalEnemy(0, 25));
+            StartCoroutine(SpawnNormalEnemy(1, 15));
+            StartCoroutine(SpawnNormalEnemy(2, 15));
+        }
+    }
+
+    public void SpawnBossWave()
+    {
+        SpawnBossEnemy();
+        StartCoroutine(SpawnNormalEnemy(0, 20));
+        StartCoroutine(SpawnNormalEnemy(1, 20));
+        StartCoroutine(SpawnNormalEnemy(2, 20));
+    }
+
+    public void RemoveEnemyFromList(GameObject obj)
+    { 
+        enemyList.Remove(obj);
+        enemiesAlive--;
+    }
+
+    public List<GameObject> GetEnemyList() { return enemyList; }
+}
